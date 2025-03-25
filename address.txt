@@ -1,3 +1,4 @@
-Hello everyone!!
-Get Lostt!!!!!!!!
-bhjfoewkfnewmkofw
+Hello , vaanshi here!
+.log
+.env
+node_modules/
